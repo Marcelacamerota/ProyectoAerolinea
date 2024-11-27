@@ -12,4 +12,4 @@ dotenv: maneja las variables de entorno para credenciales
 pip install python-dotenv
 ```
 2.
-Renombrar el archivo .envTemplate a .env
+Renombrar el archivo .envTemplate a .env y completar los datos con las credenciales correctas
