@@ -1,0 +1,5 @@
+USER=usuario
+PASSWORD=contraseña
+HOST=ruta de base de datos en la nube
+DB_NAME=nombre de la base de datos
+PORT=puerto
