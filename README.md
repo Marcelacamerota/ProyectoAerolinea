@@ -1,18 +1,18 @@
-Informe de Optimización - SkyFly Airlines
+Informe de Optimización - SkyFly Airlines 
 
-A) Descripcion del Proyecto:
-   La aerolinea SkyFly Airlines de origen Ruso ha contratado a la consultora Smart Data Solutions para llevar a cabo un analisis de sus datos sobre sus vuelos y sus pasajeros para poder obtener insights valiosos y tomar decisiones estratégicas.
+📋 A) Descripcion del Proyecto:
+La aerolinea SkyFly Airlines de origen Ruso ha contratado a la consultora Smart Data Solutions para llevar a cabo un analisis de sus datos sobre sus vuelos y sus pasajeros para poder obtener insights valiosos y tomar decisiones estratégicas.
 
-B) Descripción del Problema y contexto: 
+❌ B) Problemática: 
 
 Las aerolíneas se enfrentan actualmente a numerosos desafíos, entre ellos, una creciente competencia por las rutas, incrementos en el precio del petróleo, conflictos laborales y elevados impuestos. Este problema afecta la rentabilidad de la aerolínea. 
 
-C) Objetivo Principal:
+🎯 C) Objetivo Principal:
 
 El objetivo principal del proyecto es identificar, a través del análisis de datos, patrones y áreas de mejora en los indicadores claves relacionados con la eficiciencia de la aerolinea y la experiencia del cliente. Se buscará obtener insights que permitan a SkyFly diseñar una estrategia enfocada en optimizar su operatoria y aumentar la lealtad de los pasajeros.
 El valor agregado de este proyecto, radica en que nuestras recomendaciones se basan en datos precisos y accionables, lo que posibilita una toma de decisiones basada en evidencias.
 
-D) Resultados esperados & Impacto 
+📊 D) Resultados esperados e impacto:
 
 El proyecto contribuirá a transformar la manera en que la aerolínea administra sus vuelos e interactúa con sus clientes, permitiendo posicionar a SkyFly de manera más competitiva en el mercado, lo que se traducirá en una mejora en la rentabilidad en el mediano plazo.
 
