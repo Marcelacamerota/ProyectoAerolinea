@@ -1,7 +1,8 @@
 Informe de Optimización - SkyFly Airlines 
 
 📋 A) Descripcion del Proyecto:
-La aerolinea SkyFly Airlines de origen Ruso ha contratado a la consultora Smart Data Solutions para llevar a cabo un analisis de sus datos sobre sus vuelos y sus pasajeros para poder obtener insights valiosos y tomar decisiones estratégicas.
+
+La aerolinea SkyFly Airlines de origen Ruso ha contratado a la consultora Smart Data Solutions para llevar a cabo un analisis de sus datos sobre sus vuelos y sus pasajeros. Como bien sabemos, la industria aeronáutica es dinámica y altamente competitiva, por eso la idea es presentar un proyecto del que se pueda extraer insights valiosos y toma de decisiones estratégicas con el objetivo de expandir y optimizar su presencia en el mercado. 
 
 ❌ B) Problemática: 
 
