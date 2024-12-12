@@ -1,6 +1,5 @@
 
 <p style="font-family: Verdana, sans-serif; font-size: 14px;">
-
   
 # **INFORME DE OPTIMIZACIÓN**
 
@@ -25,7 +24,7 @@ El valor agregado de este proyecto, radica en que nuestras recomendaciones se ba
 
 El proyecto contribuirá a transformar la manera en que la aerolínea administra sus vuelos e interactúa con sus clientes, permitiendo posicionar a SkyFly de manera más competitiva en el mercado, lo que se traducirá en una mejora en la rentabilidad en el mediano plazo.
 
-## E) Entregable: AGREGAR LO DE ANALISIS PREDICTIVOS _?????????????
+## E) Entregable: 
 
 Smart Data Solutions le presentará el 13 de Diciembre del 2024 un Informe interactivo a la empresa que consta de un Dashborad con los KPI´s claves, analisis especificos y recomendaciones a los Directivos para avanzar con acciones concretas en la empresa en un corto plazo.
 
