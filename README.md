@@ -1,4 +1,6 @@
-  ![Texto alternativo](https://www.designevo.com/es/apps/logo/?name=earth-and-fly-airplane)    **INFORME DE OPTIMIZACIÓN**
+  ![Sky Fly Airlines](https://www.designevo.com/es/apps/logo/?name=earth-and-fly-airplane)  
+                                                          **INFORME DE OPTIMIZACIÓN**
+                                                              
                                                                **SKYFLY AIRLINES**       
 
 📋 A) Descripcion del Proyecto:
