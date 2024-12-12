@@ -37,8 +37,9 @@ Smart Data Solutions le presentará el 13 de Diciembre del 2024 un Informe inter
 
 ## G) Tecnologias Utilizadas:
 
-    MySQL - Server: Base de Datos
+MySQL - Server: Base de Datos
 🐍 Python: Utilizado para realizar el EDA. Librerías: Pandas, Numpy, Matplotlib, Seaborn.
+
 📊 Power BI: Se utiliza Power Query para la limpieza de datos. Power BI para la creación del Informe (Dashboard y análisis con visualizaciones interactivas)
 
 Herramientas de soporte: Draw.io (para el modelo relacional), Github (plataforma que permite compartir y colaborar el proyecto), Trello (herramienta que nos permite gestionar el proyecto y las tareas de forma colaborativa:)
