@@ -41,37 +41,29 @@ Smart Data Solutions le presentará el 13 de Diciembre del 2024 un Informe inter
 🐍 Python: Utilizado para realizar el EDA. Librerías: Pandas, Numpy, Matplotlib, Seaborn.
 📊 Power BI: Se utiliza Power Query para la limpieza de datos. Power BI para la creación del Informe (Dashboard y análisis con visualizaciones interactivas)
 
+Herramientas de soporte: Draw.io (para el modelo relacional), Github (plataforma que permite compartir y colaborar el proyecto), Trello (herramienta que nos permite gestionar el proyecto y las tareas de forma colaborativa:)
+
 ## H) Base de Datos:
 La base de datos proporcionada por el cliente consta de 8 tablas relacionadas en un formato SQLite.  Abarca información de sus vuelos, aeropuertos en los que opera, aeronaves de su tropa, reservas, etc en un período de Junio a Septiembre del 2017. Las tablas son:
 
-    _aircrafts_data_: Contiene la información sobre los aviones (9 filas, 3 columnas)
-    _airports_data_: Contiene la data de los aeropuertos (104 filas, 5 columnas)
-    _boarding_passes_: Detalles sobre los boletos de embarque (579686 filas, 4 columnas)
-    _bookings_: Datos de las reservas (262788 filas, 3 columnas)
-    _flights_: Información de cada vuelo (33121 filas, 10 columnas)
-    _seats_: Información sobre los asientos de los aviones (1339 filas, 3 columnas)
-    _tickets_flights_: Detalles de los tickets, los vuelos correspondientes y el precio (1045726 filas, 4 columnas)
-    _tickets_: Información de los tickets y de los pasajeros correspondientes (366733 filas, 3 columnas)
+  _aircrafts_data_: Contiene la información sobre los aviones (9 filas, 3 columnas)
+  _airports_data_: Contiene la data de los aeropuertos (104 filas, 5 columnas)
+  _boarding_passes_: Detalles sobre los boletos de embarque (579686 filas, 4 columnas)
+  _bookings_: Datos de las reservas (262788 filas, 3 columnas)
+  _flights_: Información de cada vuelo (33121 filas, 10 columnas)
+  _seats_: Información sobre los asientos de los aviones (1339 filas, 3 columnas)
+  _tickets_flights_: Detalles de los tickets, los vuelos correspondientes y el precio (1045726 filas, 4 columnas)
+  _tickets_: Información de los tickets y de los pasajeros correspondientes (366733 filas, 3 columnas)
+
+
 
 ## I) Tareas
 El proyecto se divide en las siguientes fases:
-A)Base de Datos: Obtención de la base de datos del cliente en formate SQLite. 
+
+1. Base de Datos: Obtención de la base de datos del cliente en formate SQLite. 
+2. Elaboración del Modelo relacional (relaciones entre la data): Se realizó el modelo relacional en Draw.io
+3. Normalización y limpieza de los datos para lograr análisis fiables: Se realizó la limpieza de la base de datos en Power Query.
+4. Análisis Exploratorio de Datos (EDA): Identificación de tendencias y patrones. Se realizó el EDA en Python relacionando distintas variables y en Power BI a traves de la creación de medidas y graficos variados.
+5. Realización y presentación del reporte (Power BI): Se realizó el reporte en Power BI respetando la estética del logo de la empresa SkyFly Airlines. El reporte está compuesto por 4 solapas: PORTADA, DASHBORAD, ANALISIS ESPECIFICO y RECOMENDACIONES.
 
 
-
-
-
-# Proyecto final henry
-
-## Paquetes necesarios para la app
-1. instalar:
-
-pymysql: driver para conectar python con mysql
-```
-pip install pymysql
-```
-dotenv: maneja las variables de entorno para credenciales
-```
-pip install python-dotenv
-```
-2. Renombrar el archivo .envTemplate a .env y completar los datos con las credenciales correctas
