@@ -1,10 +1,10 @@
 
-<p style="font-family: Verdana, sans-serif; font-size: 16px;">
+<p style="font-family: Verdana, sans-serif; font-size: 14px;">
 
   
 # **INFORME DE OPTIMIZACIÓN**
 
-<p style="font-family: Verdana, sans-serif; font-size: 14px;">
+<p style="font-family: Verdana, sans-serif; font-size: 12px;">
   
 # **SKYFLY AIRLINES**
 
