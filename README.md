@@ -3,8 +3,7 @@
                                                                **SKYFLY AIRLINES**
   
   
-            
-                            ![image](https://github.com/user-attachments/assets/0dec3069-65df-441a-a634-8996cefe23c8)
+  
 
                                                                
 
