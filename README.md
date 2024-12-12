@@ -45,6 +45,8 @@ MySQL - Server: Base de Datos
 
 Herramientas de soporte: Draw.io (para el modelo relacional), Github (plataforma que permite compartir y colaborar el proyecto), Trello (herramienta que nos permite gestionar el proyecto y las tareas de forma colaborativa:)
 
+Se contrato el servicio del Hosting de Railway para desplegar la base de datos en la nube.
+
 ## H) Base de Datos:
 La base de datos proporcionada por el cliente consta de 8 tablas relacionadas en un formato SQLite.  Abarca información de sus vuelos, aeropuertos en los que opera, aeronaves de su tropa, reservas, etc en un período de Junio a Septiembre del 2017. Las tablas son:
 
