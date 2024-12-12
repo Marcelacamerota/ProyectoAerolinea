@@ -36,22 +36,22 @@ Smart Data Solutions le presentará el 13 de Diciembre del 2024 un Informe inter
       2) Colaboradores: Noelia Adagio, Marcela Camerota, Francisco Antonacci, Josefina Perez Alisedo
 
 ## G) Tecnologias Utilizadas:
-  ![image](https://github.com/user-attachments/assets/6098bb53-97c8-4f18-942a-f9be17da956b)
-  MySQL - Server: Base de Datos
+
+    MySQL - Server: Base de Datos
 🐍 Python: Utilizado para realizar el EDA. Librerías: Pandas, Numpy, Matplotlib, Seaborn.
 📊 Power BI: Se utiliza Power Query para la limpieza de datos. Power BI para la creación del Informe (Dashboard y análisis con visualizaciones interactivas)
 
 ## H) Base de Datos:
 La base de datos proporcionada por el cliente consta de 8 tablas relacionadas en un formato SQLite.  Abarca información de sus vuelos, aeropuertos en los que opera, aeronaves de su tropa, reservas, etc en un período de Junio a Septiembre del 2017. Las tablas son:
 
-    aircrafts_data: Contiene la información sobre los aviones (9 filas, 3 columnas)
-    airports_data: Contiene la data de los aeropuertos (104 filas, 5 columnas)
-    boarding_passes: Detalles sobre los boletos de embarque (579686 filas, 4 columnas)
-    bookings: Datos de las reservas (262788 filas, 3 columnas)
-    flights: Información de cada vuelo (33121 filas, 10 columnas)
-    seats: Información sobre los asientos de los aviones (1339 filas, 3 columnas)
-    tickets_flights: Detalles de los tickets, los vuelos correspondientes y el precio (1045726 filas, 4 columnas)
-    tickets: Información de los tickets y de los pasajeros correspondientes (366733 filas, 3 columnas)
+    _aircrafts_data_: Contiene la información sobre los aviones (9 filas, 3 columnas)
+    _airports_data_: Contiene la data de los aeropuertos (104 filas, 5 columnas)
+    _boarding_passes_: Detalles sobre los boletos de embarque (579686 filas, 4 columnas)
+    _bookings_: Datos de las reservas (262788 filas, 3 columnas)
+    _flights_: Información de cada vuelo (33121 filas, 10 columnas)
+    _seats_: Información sobre los asientos de los aviones (1339 filas, 3 columnas)
+    _tickets_flights_: Detalles de los tickets, los vuelos correspondientes y el precio (1045726 filas, 4 columnas)
+    _tickets_: Información de los tickets y de los pasajeros correspondientes (366733 filas, 3 columnas)
 
 ## I) Tareas
 El proyecto se divide en las siguientes fases:
