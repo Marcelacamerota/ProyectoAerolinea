@@ -26,7 +26,7 @@ El proyecto contribuirá a transformar la manera en que la aerolínea administra
 
 ## E) Entregable: 
 
-Smart Data Solutions le presentará el 13 de Diciembre del 2024 un Informe interactivo a la empresa que consta de un Dashborad con los KPI´s claves, analisis especificos y recomendaciones a los Directivos para avanzar con acciones concretas en la empresa en un corto plazo.
+Smart Data Solutions le presentará el 13 de Diciembre del 2024 un Informe interactivo a la empresa que consta de un Dashborad con los KPI´s claves, analisis especificos y recomendaciones a los Directivos para que los directivos puedan avanzar con acciones concretas en la empresa en un corto/mediano plazo y así lograr mejoras en la rentabilidad de la empresa.
 
 ## F) Responsables del Informe:
 
@@ -35,8 +35,9 @@ Smart Data Solutions le presentará el 13 de Diciembre del 2024 un Informe inter
       
       2) Colaboradores: Noelia Adagio, Marcela Camerota, Francisco Antonacci, Josefina Perez Alisedo
 
-## G) Tecnologias Utilizadas: COMPLETAR
- MySQL - Server: Base de Datos
+## G) Tecnologias Utilizadas:
+  ![image](https://github.com/user-attachments/assets/6098bb53-97c8-4f18-942a-f9be17da956b)
+  MySQL - Server: Base de Datos
 🐍 Python: Utilizado para realizar el EDA. Librerías: Pandas, Numpy, Matplotlib, Seaborn.
 📊 Power BI: Se utiliza Power Query para la limpieza de datos. Power BI para la creación del Informe (Dashboard y análisis con visualizaciones interactivas)
 
